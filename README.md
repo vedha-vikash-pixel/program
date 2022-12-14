@@ -29,7 +29,7 @@ See [the contributing guide][9] for detailed instructions on how to get started 
 We accept [different types of contributions][12], including some that don't require you to write a single line of code.
 
 If you're looking for a way to contribute, you can scan through our [existing issues][10] for something to work on. When ready, check out [Getting Started with Contributing][9] for detailed instructions.
-
+ 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
